@@ -8,6 +8,7 @@ using ShoppingCartAPI.Exceptions;
 using ShoppingCartAPI.Interfaces;
 using ShoppingCartAPI.Models;
 using ShoppingCartAPI.Services;
+using Xunit;
 
 namespace ShoppingCartAPI.Tests
 {
